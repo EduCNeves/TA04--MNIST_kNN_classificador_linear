@@ -57,10 +57,10 @@ Para replicar os experimentos e gerar os resultados, siga os passos abaixo:
 
 A exploração sistemática demonstrou a alta performance do classificador kNN, especialmente quando combinado com a redução de dimensionalidade.
 
--   [cite_start]A configuração campeã foi o **kNN com k=3, aplicado sobre dados reduzidos pelo PCA para 87 dimensões** (90% da variância retida)[cite: 106].
--   [cite_start]Este modelo alcançou uma robusta acurácia final de **97,54%** no conjunto de teste[cite: 97].
--   [cite_start]A aplicação do PCA provou ser extremamente benéfica, reduzindo o tempo de execução do kNN em mais de 95%, sem comprometer a acurácia[cite: 105].
+-   A configuração campeã foi o **kNN com k=3, aplicado sobre dados reduzidos pelo PCA para 87 dimensões** (90% da variância retida).
+-   Este modelo alcançou uma robusta acurácia final de **97,54%** no conjunto de teste.
+-   A aplicação do PCA provou ser extremamente benéfica, reduzindo o tempo de execução do kNN em mais de 95%, sem comprometer a acurácia.
 
 ## Autores
 
--   [cite_start]**Eduardo Camargo Neves** - GRR20196066 [cite: 2]
+-   **Eduardo Camargo Neves** - GRR20196066
