@@ -31,7 +31,7 @@ Para replicar os experimentos e gerar os resultados, siga os passos abaixo:
 1.  **Clone o repositório:**
     ```bash
     git clone https://github.com/EduCNeves/TA04--MNIST_kNN_classificador_linear.git
-    cd seu-repositorio
+    cd TA04--MNIST_kNN_classificador_linear
     ```
 
 2.  **Instale as dependências:**
