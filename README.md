@@ -2,7 +2,7 @@
 
 Este projeto explora e compara diferentes algoritmos de Machine Learning para a tarefa de classificação de dígitos manuscritos do dataset MNIST. Foram implementados e avaliados os classificadores k-Nearest Neighbors (kNN) e modelos lineares (SGDClassifier), investigando também o impacto da técnica de redução de dimensionalidade PCA.
 
-[cite_start]O relatório final completo em formato de artigo pode ser encontrado no arquivo ` TA04__MNIST_kNN_classificador_linear.pdf`[cite: 1].
+O relatório final completo em formato de artigo pode ser encontrado no arquivo ` TA04__MNIST_kNN_classificador_linear.pdf`.
 
 ## Estrutura do Repositório
 
@@ -12,7 +12,7 @@ O projeto está organizado em scripts modulares para separar a fase de experimen
 -   `experimento_linear.py`: Script para executar todos os experimentos com o modelo Linear (SGDClassifier), tanto nos dados originais quanto com PCA. Salva os resultados em `resultados_linear.csv`.
 -   `gerar_relatorio_final.py`: Script principal que lê os resultados salvos, consolida os dados, gera os gráficos comparativos (salvando-os na pasta `output/`) e realiza a avaliação final do melhor modelo encontrado.
 -   `requirements.txt`: Arquivo com as dependências do projeto para fácil instalação do ambiente.
--   [cite_start]` TA04__MNIST_kNN_classificador_linear.pdf`: O relatório final do projeto em formato de artigo[cite: 1].
+-   ` TA04__MNIST_kNN_classificador_linear.pdf`: O relatório final do projeto em formato de artigo.
 
 ## Tecnologias e Bibliotecas
 
